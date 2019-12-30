@@ -1,5 +1,7 @@
 {
   "name": "rails-devise-roles",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
 }
